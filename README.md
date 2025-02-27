@@ -16,6 +16,7 @@ As an AI Engineer, I'm dedicated to **empowering businesses with AI-driven solut
 🐙 **GitHub**: [github.com/faizrazadec](https://github.com/faizrazadec)  
 📧 **Email**: faiz.raza.dec@gmail.com  
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=faizrazadec&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Let me know if you want any tweaks! 🚀🔥
+[![](https://visitcount.itsvg.in/api?id=faizrazadec&icon=0&color=0)](https://visitcount.itsvg.in)
