@@ -5,13 +5,13 @@
 <p><em><b>AI Engineer (LLM - Agentic AI) at</b> <a href="https://www.dataropes.ai/">Dataropes.ai
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p>As an AI Engineer, I'm dedicated to **empowering businesses with AI-driven solutions**. With expertise in machine learning, deep learning, and MLOps, he specializes in building **scalable AI applications**—from **LLM-powered chatbots** to **real-time computer vision systems**. By integrating AI with cloud platforms, DevOps, and automation, I helps businesses **unlock insights, streamline operations, and enhance decision-making**. Passionate about **AI innovation**, he transforms complex problems into **data-driven solutions** that drive efficiency and growth. 🚀 </p>
+As an AI Engineer, I'm dedicated to *empowering businesses with AI-driven solutions*. With expertise in machine learning, deep learning, and MLOps, he specializes in building **scalable AI applications**—from **LLM-powered chatbots** to **real-time computer vision systems**. By integrating AI with cloud platforms, DevOps, and automation, I helps businesses **unlock insights, streamline operations, and enhance decision-making**. Passionate about **AI innovation**, he transforms complex problems into **data-driven solutions** that drive efficiency and growth. 🚀 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faizrazadec&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=faizrazadec&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)![](https://nirzak-streak-stats.vercel.app/?user=faizrazadec&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=faizrazadec&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)  ![](https://nirzak-streak-stats.vercel.app/?user=faizrazadec&theme=blue-green&hide_border=false)<br/>
 
 ### 📫 **Connect With Me**  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiz.raza.dec@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizrazadec) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/faizrazadec) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@faizrazadec)
