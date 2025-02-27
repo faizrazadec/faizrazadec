@@ -5,6 +5,10 @@
 <p><em><b>AI Engineer (LLM - Agentic AI) at</b> <a href="https://www.dataropes.ai/">Dataropes.ai
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
+### 📫 **Connect With Me**  
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiz.raza.dec@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizrazadec) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Many-Bar6079) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@faizrazadec)
+
 <p> As an AI Engineer, I'm dedicated to <b>empowering businesses with AI-driven solutions</b>. With expertise in machine learning, deep learning, and MLOps, I specializes in building <b>scalable AI applications</b>—from <b>LLM-powered chatbots - Agentic AI</b> to <b>real-time computer vision systems</b>. By integrating AI with cloud platforms, DevOps, and automation, I helps businesses <b>unlock insights, streamline operations, and enhance decision-making</b>. Passionate about <b>AI innovation</b>, I transforms complex problems into <b>data-driven solutions</b> that drive efficiency and growth. 🚀 </p>
 
 ### 🔝 Top Contributed Repo
@@ -15,3 +19,78 @@
 
 ### 📫 **Connect With Me**  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiz.raza.dec@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizrazadec) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Many-Bar6079) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@faizrazadec)
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C777%20hrs%2043%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-830-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 256.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 18 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 30 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+🌆 Daytime                1865 commits        ██████████░░░░░░░░░░░░░░░   40.19 % 
+🌃 Evening                1375 commits        ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+🌙 Night                  634 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Tuesday                  637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Wednesday                734 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Thursday                 615 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Friday                   488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Saturday                 605 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Sunday                   978 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+TypeScript               43 hrs 23 mins      ████████████████████████░   97.39 % 
+TSConfig                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+SCSS                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+🔥 Editors: 
+WebStorm                 44 hrs 32 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      44 hrs 32 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               33 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
+TypeScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+```
+
+
+
+
+ Last Updated on 27/02/2025 00:31:33 UTC
+<!--END_SECTION:waka-->
