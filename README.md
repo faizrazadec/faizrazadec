@@ -5,7 +5,7 @@
 <p><em><b>AI Engineer (LLM - Agentic AI) at</b> <a href="https://www.dataropes.ai/">Dataropes.ai
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-As an AI Engineer, I'm dedicated to *empowering businesses with AI-driven solutions*. With expertise in machine learning, deep learning, and MLOps, he specializes in building **scalable AI applications**—from **LLM-powered chatbots** to **real-time computer vision systems**. By integrating AI with cloud platforms, DevOps, and automation, I helps businesses **unlock insights, streamline operations, and enhance decision-making**. Passionate about **AI innovation**, he transforms complex problems into **data-driven solutions** that drive efficiency and growth. 🚀 
+<p> As an AI Engineer, I'm dedicated to <b>empowering businesses with AI-driven solutions</b>. With expertise in machine learning, deep learning, and MLOps, he specializes in building <b>scalable AI applications</b>—from <b>LLM-powered chatbots</b> to <b>real-time computer vision systems</b>. By integrating AI with cloud platforms, DevOps, and automation, I helps businesses <b>unlock insights, streamline operations, and enhance decision-making</b>. Passionate about <b>AI innovation</b>, he transforms complex problems into <b>data-driven solutions</b> that drive efficiency and growth. 🚀 </p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faizrazadec&limit=5&theme=dark&combine_all_yearly_contributions=true)
