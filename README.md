@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Faiz.
 
-<p><em><b>AI Engineer (LLM - Agentic AI) at <a href="[https://fliki.ai/](https://www.dataropes.ai/)">Dataropes.ai
+<p><em><b>AI Engineer (LLM - Agentic AI) at</b> <a href="[https://fliki.ai/](https://www.dataropes.ai/)">Dataropes.ai
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
