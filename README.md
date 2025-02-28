@@ -6,9 +6,6 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### 📫 **Connect With Me**  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiz.raza.dec@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizrazadec) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Many-Bar6079) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@faizrazadec)
-
 <p> As an AI Engineer, I'm dedicated to <b>empowering businesses with AI-driven solutions</b>. With expertise in machine learning, deep learning, and MLOps, I specializes in building <b>scalable AI applications</b>—from <b>LLM-powered chatbots - Agentic AI</b> to <b>real-time computer vision systems</b>. By integrating AI with cloud platforms, DevOps, and automation, I helps businesses <b>unlock insights, streamline operations, and enhance decision-making</b>. Passionate about <b>AI innovation</b>, I transforms complex problems into <b>data-driven solutions</b> that drive efficiency and growth. 🚀 </p>
 
 ### 🔝 Top Contributed Repo
@@ -21,7 +18,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiz.raza.dec@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizrazadec) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Many-Bar6079) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@faizrazadec)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C777%20hrs%2043%20mins-blue)
+![Code Time][(http://img.shields.io/badge/Code%20Time-3%2C777%20hrs%2043%20mins-blue)](https://wakatime.com/badge/user/8b0ef192-7feb-446f-a3d8-12dae5a58378/project/0ead00e3-db71-4d79-a4b1-64f7d8e4085a.svg)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-830-blue)
 
