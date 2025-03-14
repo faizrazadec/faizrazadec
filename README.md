@@ -6,7 +6,18 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p> As an AI Engineer, I'm dedicated to <b>empowering businesses with AI-driven solutions</b>. With expertise in machine learning, deep learning, and MLOps, I specializes in building <b>scalable AI applications</b>—from <b>LLM-powered chatbots - Agentic AI</b> to <b>real-time computer vision systems</b>. By integrating AI with cloud platforms, DevOps, and automation, I helps businesses <b>unlock insights, streamline operations, and enhance decision-making</b>. Passionate about <b>AI innovation</b>, I transforms complex problems into <b>data-driven solutions</b> that drive efficiency and growth. 🚀 </p>
+<div align="justify">
+  <p> 
+    As an AI Engineer, I'm dedicated to <b>empowering businesses with AI-driven solutions</b>. 
+    With expertise in machine learning, deep learning, and MLOps, I specialize in building 
+    <b>scalable AI applications</b>—from <b>LLM-powered chatbots - Agentic AI</b> to 
+    <b>real-time computer vision systems</b>. By integrating AI with cloud platforms, DevOps, and 
+    automation, I help businesses <b>unlock insights, streamline operations, and enhance 
+    decision-making</b>. Passionate about <b>AI innovation</b>, I transform complex problems into 
+    <b>data-driven solutions</b> that drive efficiency and growth. 🚀 
+  </p>
+</div>
+
 
 ### 🔝 Top Contributed Repo
 <!-- GitHub Contributor Stats -->
