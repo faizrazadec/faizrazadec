@@ -9,14 +9,15 @@
 <p> As an AI Engineer, I'm dedicated to <b>empowering businesses with AI-driven solutions</b>. With expertise in machine learning, deep learning, and MLOps, I specializes in building <b>scalable AI applications</b>—from <b>LLM-powered chatbots - Agentic AI</b> to <b>real-time computer vision systems</b>. By integrating AI with cloud platforms, DevOps, and automation, I helps businesses <b>unlock insights, streamline operations, and enhance decision-making</b>. Passionate about <b>AI innovation</b>, I transforms complex problems into <b>data-driven solutions</b> that drive efficiency and growth. 🚀 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=faizrazadec&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- GitHub Contributor Stats -->
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=faizrazadec&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</div>
 
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faizrazadec&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
-
-![](https://nirzak-streak-stats.vercel.app/?user=faizrazadec&theme=blue-green&hide_border=false)<br/>
 
 ### 📫 **Connect With Me**  
 <!-- Social Media Badges -->
