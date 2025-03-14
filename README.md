@@ -30,6 +30,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=faizrazadec&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
+<div align="center">
+  <img src="https://hit.yhype.me/github/profile?account_id=123550860" />
+</div>
+
 ### 📫 **Connect With Me**  
 <!-- Social Media Badges -->
 <div align="center">
