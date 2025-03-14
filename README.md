@@ -30,6 +30,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=faizrazadec&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
+![](https://komarev.com/ghpvc/?username=faizrazadec)
+
 <!-- Profile View Counter -->
 <div align="center">
   <img src="https://hit.yhype.me/github/profile?account_id=123550860" alt="Profile Views"/>
