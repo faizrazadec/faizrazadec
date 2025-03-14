@@ -19,4 +19,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=faizrazadec&theme=blue-green&hide_border=false)<br/>
 
 ### 📫 **Connect With Me**  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiz.raza.dec@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizrazadec) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Many-Bar6079) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@faizrazadec)
+<!-- Social Media Badges -->
+<div align="center">
+  <a href="mailto:faiz.raza.dec@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/faizrazadec">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://reddit.com/user/Many-Bar6079">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@faizrazadec">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
+  </a>
+</div>
