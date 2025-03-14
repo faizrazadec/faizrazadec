@@ -35,9 +35,7 @@
   <a href="https://wakatime.com/@8b0ef192-7feb-446f-a3d8-12dae5a58378">
     <img src="https://wakatime.com/badge/user/8b0ef192-7feb-446f-a3d8-12dae5a58378.svg" alt="WakaTime Badge"/>
   </a>
-  <br/>
   <img src="https://komarev.com/ghpvc/?username=faizrazadec" alt="Profile Views"/>
-  <br/>
   <img src="https://hit.yhype.me/github/profile?account_id=123550860" alt="Profile Hits"/>
 </div>
 
