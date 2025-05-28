@@ -52,7 +52,7 @@
   <a href="https://reddit.com/user/Many-Bar6079">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@faizrazadec">
+<!--   <a href="https://medium.com/@faizrazadec">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
-  </a>
+  </a> -->
 </div>
