@@ -15,6 +15,9 @@
     automation, I help businesses <b>unlock insights, streamline operations, and enhance 
     decision-making</b>. Passionate about <b>AI innovation</b>, I transform complex problems into 
     <b>data-driven solutions</b> that drive efficiency and growth. 🚀 
+    <em><b>Talk with my personal AI Assistant </b> <a href="https://www.faizraza.me/pages/ai-assistant">here.
+    </a><img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ1dG85cjVzbmM0MWMwcnByN2s3N2UzMnIwdWFvbTNjazB2cTdleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9yC8WFP8PJGA6r1yqd/giphy.gif)" width="30"> 
+    </em>
   </p>
 </div>
 
@@ -59,13 +62,4 @@
 <!--   <a href="https://medium.com/@faizrazadec">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
   </a> -->
-</div>
-
-
-### 📫 **Talk with my personal AI Assistant**  
-<!-- Social Media Badges -->
-<div align="center">
-  <a href="www.faizraza.me/pages/ai-assistant">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
 </div>
