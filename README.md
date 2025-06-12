@@ -18,7 +18,7 @@
   </p>
   <p>
     <em><b>Talk with my personal AI Assistant </b> <a href="https://www.faizraza.me/pages/ai-assistant">here.
-    </a><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNkdmdmdjhkYmNrOXFic2JvZmo5NGNvamxia3ludmlvM2lpOXpnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ai0FCXmNLpfhQNs0af/giphy.gif" width="30"> 
+    </a><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3empoa20ydXN5Z3h1OWp1aW1tZTdqYWx2bzB3dHY1MXE2YXcxb3hiaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xUA7aN5Mr6ggulIGSk/giphy.gif" width="30"> 
     </em>
   </p>
 </div>
