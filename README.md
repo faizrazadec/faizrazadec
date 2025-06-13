@@ -17,7 +17,7 @@
     <b>data-driven solutions</b> that drive efficiency and growth. 🚀 
   </p>
   <p>
-    <em><b>Talk to my personal AI Assistant </b> <a href="https://www.faizraza.me/pages/ai-assistant">here.
+    <em><b>Talk to my personal AI Assistant </b> <a href="https://chat.faizraza.me">here.
     </a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF0d3RjZGdsbTZ5d2l3b21yOWVjbHhhNXViZmJudDdrbTQ5dmlyNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xAqHUL21pMHe0/giphy.gif" width="30"> 
     </em>
   </p>
