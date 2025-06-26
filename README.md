@@ -14,7 +14,7 @@
     <b>real-time computer vision systems</b>. By integrating AI with cloud platforms, DevOps, and 
     automation, I help businesses <b>unlock insights, streamline operations, and enhance 
     decision-making</b>. Passionate about <b>AI innovation</b>, I transform complex problems into 
-    <b>data-driven solutions</b> that drive efficiency and growth. 🚀 
+    <b>data-driven solutions</b> that drive efficiency and growth.
   </p>
   <p>
     <em><b>Talk to my personal AI Assistant </b> <a href="https://chat.faizraza.me">here.
