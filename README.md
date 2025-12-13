@@ -95,9 +95,6 @@
   <a href="https://linkedin.com/in/faizrazadec">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://reddit.com/user/Many-Bar6079">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"/>
-  </a>
   <a href="https://www.faizraza.me" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-%23007ACC.svg?logo=internet-explorer&logoColor=white" alt="Web Profile Badge"/>
   </a>
