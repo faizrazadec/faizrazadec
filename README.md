@@ -84,18 +84,3 @@
   <img src="https://komarev.com/ghpvc/?username=faizrazadec" alt="Profile Views"/>
   <img src="https://hit.yhype.me/github/profile?account_id=123550860" alt="Profile Hits"/>
 </div>
-
-
-### 📫 **Connect With Me**  
-<!-- Social Media Badges -->
-<div align="center">
-  <a href="mailto:faiz.raza.dec@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/faizrazadec">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.faizraza.me" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Website-%23007ACC.svg?logo=internet-explorer&logoColor=white" alt="Web Profile Badge"/>
-  </a>
-</div>
