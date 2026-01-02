@@ -45,7 +45,7 @@
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=plastic\&logo=next.js\&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=plastic\&logo=linux\&logoColor=black)
 
-<p><em><b>AI and Data Consultant at</b> <a href="https://www.skyelectric.com">SkyElectric Pvt. Ltd
+<p><em><b>AI Engineer at</b> <a href="https://www.skyelectric.com">SkyElectric Pvt. Ltd
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
