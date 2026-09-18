@@ -65,15 +65,15 @@
 </div>
 
 
-### 🔝 Top Contributed Repo
-<!-- GitHub Contributor Stats -->
+### 🔝 Most Used Languages
+<!-- Top Languages -->
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=faizrazadec&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=faizrazadec&layout=compact&langs_count=10&theme=blue-green&hide_border=false"/>
 </div>
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizrazadec&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=faizrazadec&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
 <!-- Profile View Counters & WakaTime Badge -->
@@ -82,5 +82,4 @@
     <img src="https://wakatime.com/badge/user/8b0ef192-7feb-446f-a3d8-12dae5a58378.svg" alt="WakaTime Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=faizrazadec" alt="Profile Views"/>
-  <img src="https://hit.yhype.me/github/profile?account_id=123550860" alt="Profile Hits"/>
 </div>
