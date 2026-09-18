@@ -65,12 +65,6 @@
 </div>
 
 
-### 🔝 Most Used Languages
-<!-- Top Languages -->
-<div align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=faizrazadec&layout=compact&langs_count=10&theme=blue-green&hide_border=false"/>
-</div>
-
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=faizrazadec&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
