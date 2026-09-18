@@ -51,11 +51,9 @@
 
 <div align="justify">
   <p>
-    As an AI & Data Consultant, I help businesses <b>unlock the full potential of AI and data-driven solutions</b>. 
-    With deep expertise in machine learning, deep learning, and Generative AI, I build <b>end-to-end, full-stack AI applications</b>—ranging from 
-    <b>LLM-powered chatbots and agentic AI workflows</b> to <b>real-time computer vision systems</b>. 
-    I integrate data pipelines with cloud infrastructure, DevOps, and automation tools to <b>streamline operations, uncover insights, and improve decision-making</b>. 
-    Passionate about <b>AI innovation and scalability</b>, I turn complex challenges into <b>intelligent, actionable solutions</b> that fuel business growth.
+    I build backend systems and LLM-powered products that people use for real work:
+    lawyers drafting court documents, ops teams processing orders, managers querying live business data.
+    I take an idea from architecture through to a deployed, monitored system on the cloud.
   </p>
   <p>
     <em><b>Talk to my personal AI Assistant </b> <a href="https://chat.faizraza.me">here.
